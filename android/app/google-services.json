@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "591590592947",
+    "project_id": "hems-app-fba72",
+    "storage_bucket": "hems-app-fba72.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591590592947:android:b692d75b9eae6f24c8fbc6",
+        "android_client_info": {
+          "package_name": "com.example.smart_home"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwPD1hOXwttO3fYQ63qk6l04hFr5Ap6-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
